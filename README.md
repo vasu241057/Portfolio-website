@@ -1,5 +1,5 @@
-# Portfolio-V2
-This is version 2.0 of my portfolio site. Check version 1.0 [here](https://roshan-kanwar.netlify.app/).
+# Portfolio-website
+This is my portoio website.
 
 ## Screenshots
 
