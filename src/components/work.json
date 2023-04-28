@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ck126",
+    "company": "Blue Yonder",
+    "site": "https://www.karkhana.app/",
+    "date": "Jul 2022 - Jan 2023",
+    "text": "Full Stack developer - Developed employee registration API using Mulesoft, optimized CIS Oracle runs, maintained TM/TP API environments, and validated/corrected 30+ files for customer project."
+  },
+  {
+    "id": "ck123",
+    "company": "Donut",
+    "site": "https://www.happiestneurons.com/",
+    "date": "Jan 2020 - Mar 2020",
+    "text": "React developer - Declared project scopes, monitored and improved front-end performance."
+  },
+  {
+    "id": "ck124",
+    "company": "Birla White Cement",
+    "site": "https://relive.work/",
+    "date": "Jun 2021 - Jul 2021",
+    "text": "developer - Implemented a simple web based log management system using ReactJS and Bootstrap.."
+  }
+]
