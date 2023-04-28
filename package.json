@@ -1,7 +1,7 @@
 {
   "name": "portfolio-site-2",
   "version": "0.1.0",
-  "homepage": "http://roshan0708.github.io/portfolio_v2",
+  "homepage": "https://vasu241057.github.io/portfolio-website/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
@@ -26,7 +26,7 @@
     "test": "node node_modules/react-scripts/scripts/test.js",
     "eject": "node node_modules/react-scripts/scripts/eject.js",
     "predeploy": "npm run build",
-    "deploy": "node node_modules/gh-pages/bin/gh-pages.js -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
