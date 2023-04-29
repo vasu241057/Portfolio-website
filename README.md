@@ -1,5 +1,5 @@
 # Portfolio-website
-This is my portoio website. You can view it here[https://vasu241057.github.io/Portfolio-website/].
+This is my portoio website. You can view it [here](https://vasu241057.github.io/Portfolio-website/).
 
 ## Screenshots
 
