@@ -1,17 +1,20 @@
-# Portfolio-V2
-This is version 2.0 of my portfolio site. Check version 1.0 [here](https://roshan-kanwar.netlify.app/).
+# Portfolio-website
+This is my portoio website. You can view it here
 
 ## Screenshots
 
-![s1](https://user-images.githubusercontent.com/60403638/98486503-9e5d4d00-2243-11eb-96ab-e5f284300206.jpg)
+![s1](https://user-images.githubusercontent.com/59095288/235239780-0cec8f09-cf10-4d2a-80cf-21049011234b.png)
 
 
 
-![s2](https://user-images.githubusercontent.com/60403638/98486508-a3220100-2243-11eb-8380-5f9ec574a797.jpg)
+
+![s2](https://user-images.githubusercontent.com/59095288/235239860-8f283387-1a6d-4b16-be15-7b7f9285da0a.png)
 
 
 
-![s3](https://user-images.githubusercontent.com/60403638/98486510-a5845b00-2243-11eb-9223-097d637d8fde.jpg)
+
+![s3](https://user-images.githubusercontent.com/59095288/235239877-4a1391cf-bf44-4616-a798-2397baaaceb4.png)
+
 
 
 ## Tech Stack Used
