@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portfolio-website/static/css/main.521ed695.css",
-    "main.js": "/Portfolio-website/static/js/main.fa49f549.js",
-    "static/media/bg-6.jpg": "/Portfolio-website/static/media/bg-6.d54f696d6c92b1dd0272.jpg",
-    "static/media/bg-2.jpg": "/Portfolio-website/static/media/bg-2.1b380610f909a5d86128.jpg",
-    "static/media/project-3.jpg": "/Portfolio-website/static/media/project-3.4d5ec45dbb351872c9c8.jpg",
-    "static/media/RESUME_VASU KHANDELWAL.pdf": "/Portfolio-website/static/media/RESUME_VASU KHANDELWAL.e32a09c4dea2019b92cf.pdf",
-    "static/media/project-1.jpg": "/Portfolio-website/static/media/project-1.fdf2e57328d72c5fb940.jpg",
-    "static/media/bg-10.png": "/Portfolio-website/static/media/bg-10.06189263bdf8909d6090.png",
-    "index.html": "/Portfolio-website/index.html",
-    "main.521ed695.css.map": "/Portfolio-website/static/css/main.521ed695.css.map",
-    "main.fa49f549.js.map": "/Portfolio-website/static/js/main.fa49f549.js.map"
+    "main.css": "/static/css/main.2ce2a541.css",
+    "main.js": "/static/js/main.c851d725.js",
+    "static/media/bg-6.jpg": "/static/media/bg-6.d54f696d6c92b1dd0272.jpg",
+    "static/media/bg-2.jpg": "/static/media/bg-2.1b380610f909a5d86128.jpg",
+    "static/media/project-3.jpg": "/static/media/project-3.4d5ec45dbb351872c9c8.jpg",
+    "static/media/RESUME_VASU KHANDELWAL.pdf": "/static/media/RESUME_VASU KHANDELWAL.e32a09c4dea2019b92cf.pdf",
+    "static/media/project-1.jpg": "/static/media/project-1.fdf2e57328d72c5fb940.jpg",
+    "static/media/bg-10.png": "/static/media/bg-10.06189263bdf8909d6090.png",
+    "index.html": "/index.html",
+    "main.2ce2a541.css.map": "/static/css/main.2ce2a541.css.map",
+    "main.c851d725.js.map": "/static/js/main.c851d725.js.map"
   },
   "entrypoints": [
-    "static/css/main.521ed695.css",
-    "static/js/main.fa49f549.js"
+    "static/css/main.2ce2a541.css",
+    "static/js/main.c851d725.js"
   ]
 }
