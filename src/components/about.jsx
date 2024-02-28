@@ -14,7 +14,7 @@ const About = () => {
           <div>
             <p className="text mt-4 mb-3">
               Hello! I'm Vasu, a software development enthusiast, competitive
-              coder, and writer in India.
+              coder, and writer from India.
             </p>
             <p className="text my-3">
               I'm a final year undergraduate pursuing{" "}
