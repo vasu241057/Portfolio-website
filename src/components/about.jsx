@@ -27,7 +27,7 @@ const About = () => {
             </p>
           </div>
           <p className="text mt-3">
-            Here are a few technologies that I currently work with:
+            Here are a few technologies that I currently work:
           </p>
           <div className="skills-box">
             <ul className="lists">
