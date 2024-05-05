@@ -17,7 +17,7 @@ const About = () => {
               coder, and writer from India.
             </p>
             <p className="text my-3">
-              I'm a final year undergraduate pursuing{" "}
+              I'm a final year undergraduat pursuing{" "}
               <span style={{ color: "#63c9c6" }}>B.E.(Hons.) Civil</span> from{" "}
               <span style={{ color: "#63c9c6" }}>BITS PILANI</span>. I enjoy
               designing and creating beautiful web application / website and
@@ -27,7 +27,7 @@ const About = () => {
             </p>
           </div>
           <p className="text mt-3">
-            Here are a few technologies that I currently work:
+            Here are a few technologies that I currently work with:
           </p>
           <div className="skills-box">
             <ul className="lists">
